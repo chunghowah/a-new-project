@@ -3,3 +3,6 @@
 wow，I think it will be a great feature on DingTalk, Coder would fall in love with it!
 ## 你喜欢名著里的哪句话？
 #### 狂暴的欢愉往往意味着狂暴的结局。——《罗密欧与朱丽叶》
+
+## 你看电影时喜欢喝什么
+#### 热柠茶
