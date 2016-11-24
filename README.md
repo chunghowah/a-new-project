@@ -9,3 +9,6 @@ wow，I think it will be a great feature on DingTalk, Coder would fall in love w
 
 ## 你喜欢怎样的房间
 #### 有设计感的
+
+## 你有什么爱好
+#### 收藏专辑封面
